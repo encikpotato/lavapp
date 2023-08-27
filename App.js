@@ -19,7 +19,7 @@ export default function App() {
         <Image source={{uri: 'https://reactnative.dev/img/tiny_logo.png'}} style={styles.sampleImage2}/>
         <Text>{derma}</Text>
         <TouchableOpacity style={styles.button1} onPress={()=>setDerma('Derma Activated')}>
-          <Text>Activate!</Text>
+          <Text>congrate</Text>
         </TouchableOpacity>
       </View>
     </View>
