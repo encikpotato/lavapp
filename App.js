@@ -3,7 +3,7 @@ import { useState } from 'react';
 
 export default function App() {
 
-  const [shafiq, setShafiq] = useState(false);
+  const [shafiq, setShafiq] = useState(true);
   const [derma, setDerma] = useState('before pressed derma');
 
   return (
